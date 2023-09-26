@@ -1,4 +1,4 @@
-# My Resume AWS
+# Lambda AWS
 
 The application is to Practice how to call Lambda function from Amplify using ApiGateWay.
 
